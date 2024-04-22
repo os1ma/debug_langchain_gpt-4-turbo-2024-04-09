@@ -3,7 +3,7 @@ import logging
 from dotenv import load_dotenv
 from openai import OpenAI
 
-logging.basicConfig(level=logging.DEBUG)
+# logging.basicConfig(level=logging.DEBUG)
 
 load_dotenv(override=True)
 
